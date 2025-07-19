@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mianu-sm.com/sitemap.xml

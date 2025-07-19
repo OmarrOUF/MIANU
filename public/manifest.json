@@ -1,0 +1,20 @@
+{
+  "short_name": "MIANU-SM III",
+  "name": "MIANU-SM III | Model United Nations Conference",
+  "icons": [
+    {
+      "src": "/MIANULOGO.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/MIANULOGO.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#3A6D8C",
+  "background_color": "#ffffff"
+}

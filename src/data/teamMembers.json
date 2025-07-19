@@ -1,0 +1,89 @@
+[
+  {
+    "category": "secretariat",
+    "members": [
+      {
+        "id": "sg",
+        "role": "secretaryGeneral",
+        "name": "???",
+        "bio": "The Secretary General leads the conference with vision and determination.",
+        "image": "/assets/silhouette.png"
+      },
+      {
+        "id": "dsg1",
+        "role": "deputySecretary",
+        "name": "???",
+        "bio": "The first Deputy Secretary General supports the conference ensures smooth operations.",
+        "image": "/assets/silhouette.png"
+      },
+      {
+        "id": "dsg2",
+        "role": "deputySecretary",
+        "name": "???",
+        "bio": "Similar to the first Deputy Secretary General, The Second Deputy Secretary General plays a crucial role in the conference's operations.",
+        "image": "/assets/silhouette.png"
+      }
+    ]
+  },
+  {
+    "category": "leadership",
+    "members": [
+      
+      {
+        "id": "cos1",
+        "role": "chiefOfStaff",
+        "name": "???",
+        "bio": "The first Chief of Staff coordinates between different teams and manages the secretariat's agenda.",
+        "image": "/assets/silhouette.png"
+      },
+      {
+        "id": "cos2",
+        "role": "chiefOfStaff",
+        "name": "???",
+        "bio": "The second Chief of Staff oversees operational excellence and strategic implementation.",
+        "image": "/assets/silhouette.png"
+      }
+    ]
+  },
+  {
+    "category": "organization",
+    "members": [
+      {
+        "id": "org1",
+        "role": "organizingHead",
+        "name": "???",
+        "bio": "Ensuring the conference runs smoothly behind the scenes with meticulous planning and execution.",
+        "image": "/assets/silhouette.png"
+      },
+      {
+        "id": "cultural",
+        "role": "culturalVisitsHead",
+        "name": "?????",
+        "bio": "???",
+        "image": "/assets/silhouette-redacted.png",
+        "mysterious": true
+      }
+      
+    ]
+  },
+  {
+    "category": "specialTeams",
+    "members": [
+      {
+        "id": "media",
+        "role": "mediaTechHead",
+        "name": "???",
+        "bio": "Leading the digital transformation and media presence of the conference.",
+        "image": "/assets/silhouette.png"
+      },
+      
+      {
+        "id": "press",
+        "role": "pressHead",
+        "name": "???",
+        "bio": "Directing the press team that documents and reports on conference proceedings with journalistic excellence.",
+        "image": "/assets/silhouette.png"
+      }
+    ]
+  }
+]

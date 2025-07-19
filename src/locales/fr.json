@@ -1,0 +1,364 @@
+{
+  "navbar": {
+    "home": "Accueil",
+    "inscription": "Inscription",
+    "committees": "Comités et Sujets",
+    "equipe": "Notre Équipe",
+    "archive": "Archives",
+    "archiveMain": "Archives de MIANU-SM",
+    "adopted": "Résolutions et Verdicts Adoptés",
+    "openMenu": "Ouvrir le menu principal"
+  },
+  "footer": {
+    "address": "Collège Saint-Marc, El Shatby, Alexandrie",
+    "followUs": "Suivez-nous sur",
+    "and": "et"
+  },
+  "countdown": {
+    "title": "MIANU-SM III COMMENÇERA DANS",
+    "days": "Jours",
+    "hours": "Heures",
+    "minutes": "Minutes",
+    "seconds": "Secondes"
+  },
+  "notFound": {
+    "underConstruction": "EN CONSTRUCTION",
+    "title": "Oups ! Cette page est encore en construction",
+    "message": "Notre équipe d'experts travaille dur pour compléter cette section. Veuillez revenir bientôt alors que nous nous préparons pour MIANU-SM III !",
+    "returnHome": "Retour à l'accueil"
+  },
+  "home": {
+    "banner": {
+      "month": "CTOBRE",
+      "year": "2025",
+      "title": "MIANU-SM III",
+      "location": "COLLÈGE SAINT-MARC, ALEXANDRIE",
+      "backgroundAlt": "Bannière de la conférence MIANU-SM III"
+    },
+    "meta": {
+      "title": "MIANU-SM III | Conférence MUN",
+      "description": "Rejoignez MIANU-SM III, la conférence Modèle des Nations Unies au Collège Saint-Marc, Alexandrie en octobre 2025."
+    }
+  },
+  "committees": {
+    "pageTitle": "Comités",
+    "pageDescription": "Explorez les comités et les sujets qui seront débattus lors de MIANU-SM III.",
+    "languageLegend": "Langues du Comités",
+    "sdgLegend": "Objectifs de Développement Durable (ODD)",
+    "committeeLeadership": "Présidence du Comité",
+    "topics": "Sujets",
+    "report": "Rapport",
+    "showDescription": "Afficher la description",
+    "hideDescription": "Masquer la description"
+  },
+  "inscription": {
+    "title": "Inscription à MIANU-SM III",
+    "subtitle": "Rejoignez-nous pour cette expérience diplomatique unique au Collège Saint-Marc en octobre 2025.",
+    "registerNow": "Inscrivez-vous maintenant",
+    "chooseOption": "Choisissez votre type d'inscription",
+
+    "delegateTitle": "Inscription des Délégué·es",
+    "delegateDescription": "Pour les participants qui souhaitent représenter un pays au sein d'un comité.",
+
+    "viceTitle": "Inscription des Vice-président·es",
+    "viceDescription": "Pour les participants qui souhaitent assister comme vice-président.",
+
+    "institutionTitle": "Inscription des Établissements Étrangères",
+    "institutionDescription": "Pour les lycées étrangers qui souhaitent inscrire un groupe de participants",
+    "institutionButton": "Inscription des Établissements Étrangères",
+
+    "frenchForm": "Formulaire Francophone",
+    "englishForm": "Anglophone Form",
+
+    "additionalInfo": {
+      "contact": "Pour toute question, veuillez nous contacter à equipemianu@gmail.com"
+    },
+
+    "pullMe": "Tirez-moi",
+    "easterEgg": {
+      "title": "Aperçu exclusif de MIANU-SM III",
+      "description": "Félicitations ! Vous avez découvert un aperçu exclusif de notre prochaine conférence. MIANU-SM III promet d'être notre édition la plus ambitieuse à ce jour, avec des comités innovants et des débats passionnants sur les enjeux mondiaux actuels.",
+      "date": "Octobre 2025",
+      "location": "Collège Saint-Marc, Alexandrie"
+    }
+  },
+  "news": {
+    "title": "Le Dossier MIANU-SM",
+    "subtitle": "— Fondé en 2025 —",
+    "buttonText": "Actualités",
+    "buttonAriaLabel": "Voir les actualités"
+  },
+  "equipe": {
+    "pageTitle": "Notre équipe | MIANU-SM III",
+    "subtitle": "Les visages derrière la conférence",
+    "secretariat": "Secrétaire Général",
+    "leadership": "Direction Exécutive",
+    "organization": "Équipes Organisatrice",
+    "specialTeams": "Équipes Spécialisées",
+    "comingSoon": "Identités à révéler",
+    "mysteryMessage": "Les identités des membres de l'équipe MIANU-SM III restent confidentielles pour le moment. Restez à l'écoute pour découvrir qui se cache derrière cette édition exceptionnelle.",
+    "teamMembers": {
+      "secretariat": [
+        {
+          "id": "sg",
+          "role": "secretaryGeneral",
+          "name": "???",
+          "bio": "Le Secrétaire Général dirige la conférence avec vision et détermination.",
+          "image": "/assets/silhouette.png"
+        },
+        {
+          "id": "dsg1",
+          "role": "deputySecretary",
+          "name": "???",
+          "bio": "Le premier Secrétaire Général Adjoint soutient la conférence et assure le bon déroulement des opérations.",
+          "image": "/assets/silhouette.png"
+        },
+        {
+          "id": "dsg2",
+          "role": "deputySecretary",
+          "name": "???",
+          "bio": "Similaire au premier Secrétaire Général Adjoint, le deuxième joue un rôle crucial dans les opérations de la conférence.",
+          "image": "/assets/silhouette.png"
+        }
+      ],
+      "leadership": [
+        {
+          "id": "cos1",
+          "role": "chiefOfStaff",
+          "name": "???",
+          "bio": "Vétérans de MNU, les Chefs de l'État-major dirigent la Présidence des comités de la Conférence et garantissent que l'aspect académique du MIANU est bien géré.",
+          "image": "/assets/silhouette.png"
+        },
+        {
+          "id": "cos2",
+          "role": "chiefOfStaff",
+          "name": "???",
+          "bio": "Vétérans de MNU, les Chefs de l'État-major dirigent la Présidence des comités de la Conférence et garantissent que l'aspect académique du MIANU est bien géré.",
+          "image": "/assets/silhouette.png"
+        }
+      ],
+      "organization": [
+        {
+          "id": "org1",
+          "role": "organizingHead",
+          "name": "???",
+          "bio": "Assure le bon déroulement de la conférence en coulisses grâce à une planification et une exécution méticuleuses.",
+          "image": "/assets/silhouette.png"
+        },
+        {
+          "id": "cultural",
+          "role": "culturalVisitsHead",
+          "name": "?????",
+          "bio": "???",
+          "image": "/assets/silhouette-redacted.png",
+          "mysterious": true
+        }
+      ],
+      "specialTeams": [
+        {
+          "id": "media",
+          "role": "mediaTechHead",
+          "name": "???",
+          "bio": "Dirige la transformation numérique et la présence médiatique de la conférence.",
+          "image": "/assets/silhouette.png"
+        },
+        {
+          "id": "crisis",
+          "role": "crisisHead",
+          "name": "???",
+          "bio": "Dirige l'équipe qui conçoit et met en œuvre des scénarios de crise dynamiques qui mettent au défi les compétences diplomatiques des délégués.",
+          "image": "/assets/silhouette.png",
+          "mysterious": true
+        },
+        {
+          "id": "press",
+          "role": "pressHead",
+          "name": "???",
+          "bio": "Dirige l'équipe de presse qui documente et rapporte les procédures de la conférence avec excellence journalistique.",
+          "image": "/assets/silhouette.png"
+        }
+      ]
+    },
+
+    "roles": {
+      "secretaryGeneral": "Secrétaire Général",
+      "deputySecretary": "Secrétaire Général Adjoint",
+      "chiefOfStaff": "Chef de l'État Major",
+      "mediaTechHead": "Chef de Média & TI",
+      "organizingHead": "Chef de l'Équipe Organisatrice",
+      "culturalVisitsHead": "Chef de ???",
+      "crisisHead": "Chef de l'Équipe ???",
+      "pressHead": "Chef de l'Équipe de Presse"
+    },
+    "quote": {
+      "text": "Derrière chaque grande conférence se cache une équipe encore plus grande.",
+      "author": "Anonyme"
+    },
+    "culturalMystery": "Un rôle énigmatique dont la nature exacte reste classifiée..."
+  },
+  "archive": {
+    "pageTitle": "ARCHIVES | MIANU-SM III",
+    "archives": "ARCHIVES",
+    "mianuArchives": "ARCHIVES MIANU-SM",
+    "theConference": "LA CONFÉRENCE {{edition}}",
+    "conferenceArchive": "Archives de la Conférence",
+    "accessPhotos": "Accédez à toutes les photos et documents de {{edition}} :",
+    "googleDriveArchive": "Archives Google Drive",
+    "photoCredit": "Archives MIANU-SM, {{year}}",
+    "committees": "COMITÉS",
+    "topics": "Sujets",
+    "leadershipTeam": "L'ÉQUIPE",
+    "previousEdition": "Édition précédente",
+    "nextEdition": "Édition suivante",
+    "editionCounter": "Édition {{current}} sur {{total}}"
+  },
+  "auth": {
+    "healthConcerns": "Problèmes de Santé",
+    "healthConcernsPlaceholder": "Listez tous problèmes de santé, conditions médicales ou allergies",
+    "healthConcernsHelp": "Veuillez inclure tout problème de santé, allergie, restriction alimentaire ou condition médicale dont nous devrions être informés.",
+    "hasHealthConcerns": "A des problèmes de santé",
+    "noHealthConcerns": "Pas de problèmes de santé",
+    "noCommittees":"Aucun comité trouvé",
+    "wantToSignupAsAdvisor":"Ce formulaire est destiné au  délégué·es.",
+    "advisorSignupLink":"Inscription en tant que Conseiller·ère",
+    "wantToSignupAsDelegate":"Ce formulaire est destiné au conseiller·ères.",
+    "delegateSignupLink":"Voulez-vous plutôt inscrire en tant que délégué·e ?",
+    "advisorSignupSubtitle":"Rejoignez MIANU-SM III en tant que conseiller",
+    "advisorSignupButton":"S'inscrire en tant que Conseiller",
+    "advisorSignup":"Inscription en tant que CONSEILLER·ÈRE",
+    "yes":"Oui",
+    "no":"Non",
+    "munsAttended":"Conference MNU attendues",
+    "munsAttendedPlaceholder":"Entrez le nombre des confernces attendues",
+    "hasAwards":"Avez vous des prix?",
+    "hasAwardsPlaceholder":"Entrez le nombre des prix",
+    "awardsList":"Liste de prix",
+    "awardsListPlaceholder":"Entrez la liste des prix",
+    "noAccount" : "Vous n'avez pas de compte?",
+    "signupLink": "S'Inscrire",
+    "logout": "Déconnexion",
+    "profile": "Profil",
+    "dashboard": "Tableau de bord",
+    "createdAt":"Crée le",
+    "lastLoginAt":"Dernière connexion le",
+    "signup": "S'Inscrire",
+    "signupSubtitle": "Rejoignez MIANU-SM III en tant que délégué·e",
+    "signupButton": "INSCRIVEZ-VOUS",
+    "signupsim": "S'Inscrire à la Simulation",
+    "signupsimPrice": "Les Frais De La Simulation: 550 L.E",
+    "signupsimSubtitle": "Rejoignez La Première Simulation MIANU-SM III (31 JUILLET) en tant que délégué·e",
+    "signupsimButton": "INSCRIVEZ-VOUS",
+    "signingUp": "Inscription en cours...",
+    "signupSuccess": "Inscription réussie ! Bienvenue à MIANU-SM III.",
+    "signupError": "Une erreur s'est produite lors de l'inscription. Veuillez réessayer.",
+    "signingsimUp": "Inscription en cours...",
+    "signupsimSuccess": "Inscription réussie ! Bienvenue à MIANU-SM III.",
+    "signupsimError": "Une erreur s'est produite lors de l'inscription. Veuillez réessayer.",
+
+    "login": "Connexion",
+    "loginSubtitle": "Accédez à votre compte MIANU-SM III",
+    "loginButton": "Se connecter",
+    "loggingIn": "Connexion en cours...",
+    "loginSuccess": "Connexion réussie ! Bienvenue.",
+    "loginError": "Email ou mot de passe invalide. Veuillez réessayer.",
+    "loginLink": "Se connecter",
+
+    "alreadyHaveAccount": "Vous avez déjà un compte ?",
+    "forgotPassword": "Mot de passe oublié ?",
+    "resetPassword": "Réinitialiser le mot de passe",
+    "resetPasswordButton": "Envoyer le lien de réinitialisation",
+    "resetPasswordSuccess": "Email de réinitialisation envoyé. Veuillez vérifier votre boîte de réception.",
+    "resetPasswordError": "Erreur lors de l'envoi de l'email de réinitialisation. Veuillez réessayer.",
+
+    "email": "Email",
+    "emailPlaceholder": "votre.email@exemple.com",
+    "password": "Mot de passe",
+    "passwordPlaceholder": "Entrez votre mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "confirmPasswordPlaceholder": "Confirmez votre mot de passe",
+    "passwordsDoNotMatch": "Les mots de passe ne correspondent pas",
+    "passwordTooShort": "Le mot de passe doit contenir au moins 6 caractères",
+
+    "firstName": "Prénom",
+    "firstNamePlaceholder": "Entrez votre prénom",
+    "lastName": "Nom",
+    "lastNamePlaceholder": "Entrez votre nom",
+    "schoolName": "Nom de l'école",
+    "schoolNamePlaceholder": "Entrez le nom de votre école",
+    "phoneNumber": "Numéro de téléphone",
+    "phoneNumberPlaceholder": "Entrez votre numéro de téléphone",
+
+    "delegateType": "Vous êtes...",
+    "national": "Égyptien·ne",
+    "international": "International",
+    "dragToReorder": "Glisser-déposer pour réorganiser",
+    "age": "Âge",
+    "agePlaceholder": "Entrez votre âge",
+    "schoolYear": "Année scolaire/Classe (2025-2026)",
+    "schoolYearPlaceholder": "Terminale, Première, etc.",
+    "dateOfBirth":"Date de naissance",
+    "healthProblems": "Problèmes de santé",
+    "healthProblemsPlaceholder": "Listez vos problèmes de santé ou conditions médicales",
+    "allergies": "Allergies",
+    "allergiesPlaceholder": "Listez vos allergies",
+
+    "country": "Pays",
+    "countryPlaceholder": "Entrez votre pays",
+    "passportImage": "Image du passeport",
+    "uploadPassport": "Télécharger le passeport",
+    "dragAndDrop": "ou glisser-déposer",
+    "passportPreview": "Aperçu du passeport",
+
+    "committeePriorities": "Préférences de comité",
+    "committeePrioritiesDescription": "Veuillez sélectionner vos préférences de comité par ordre de priorité",
+    "priority": "Priorité",
+    "addPriority": "Ajouter une priorité",
+    "removePriority": "Supprimer cette priorité",
+    "firstPriority": "Premier choix",
+    "secondPriority": "Deuxième choix",
+    "thirdPriority": "Troisième choix",
+    "selectCommittee": "Sélectionnez un comité",
+
+    "optional": "(facultatif)",
+    "requiredFieldsMissing": "Veuillez remplir tous les champs obligatoires",
+    "internationalFieldsMissing": "Veuillez remplir tous les champs internationaux obligatoires",
+
+    "emailAlreadyInUse": "Cet email est déjà utilisé",
+    "invalidEmail": "Adresse email invalide",
+    "weakPassword": "Le mot de passe est trop faible",
+    "operationNotAllowed": "Opération non autorisée"
+  },
+  "additionalInfo": {
+    "contact": "Pour toute question, veuillez nous contacter à equipemianu@gmail.com"
+  },
+  "displayNamePlaceholder": "Entrez votre nom",
+  "forgotPassword": "Mot de passe oublié?",
+  "loginButton": "Se connecter",
+  "loggingIn": "Connexion en cours...",
+  "signupButton": "Créer un compte",
+  "signingUp": "Création du compte...",
+  "sendResetLink": "Envoyer le lien",
+  "sendingResetLink": "Envoi en cours...",
+  "backToLogin": "Retour à la connexion",
+  "noAccount": "Vous n'avez pas de compte?",
+  "signupLink": "S'Inscrire",
+  "alreadyHaveAccount": "Vous avez déjà un compte?",
+  "loginLink": "Se connecter",
+  "passwordResetSent": "Le lien de réinitialisation a été envoyé à votre email",
+  "passwordResetError": "Échec de la réinitialisation. Veuillez vérifier votre adresse email.",
+  "loginError": "Échec de la connexion. Veuillez vérifier vos identifiants.",
+  "signupError": "Échec de la création du compte. Cet email est peut-être déjà utilisé.",
+  "logoutError": "Échec de la déconnexion. Veuillez réessayer.",
+  "passwordsDoNotMatch": "Les mots de passe ne correspondent pas",
+  "passwordTooShort": "Le mot de passe doit comporter au moins 6 caractères",
+    "loadingUserData": "Chargement de vos données de profil",
+    "pleaseWait": "Veuillez patienter un instant...",
+    "noUserData": "Aucune donnée utilisateur disponible. Veuillez vous reconnecter.",
+    "none": "Aucun",
+    "healthConcerns": "Problèmes de Santé",
+    "healthConcernsPlaceholder": "Listez tous problèmes de santé, conditions médicales ou allergies",
+    "healthConcernsHelp": "Veuillez inclure tout problème de santé, allergie, restriction alimentaire ou condition médicale dont nous devrions être informés.",
+    "hasHealthConcerns": "A des problèmes de santé",
+    "noHealthConcerns": "Pas de problèmes de santé"
+  
+}

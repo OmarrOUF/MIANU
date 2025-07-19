@@ -1,0 +1,65 @@
+[
+  {
+    "edition": "MIANU-SM II",
+    "year": "2024",
+    "slogan": "SOLIDARITÉ, DIVERSITÉ, AMÉLIORONS NOTRE REALITÉ",
+    "description": "La deuxième édition de MIANU-SM a renforcé notre engagement en faveur de la solidarité, de la diversité et de l'amélioration de notre société.",
+    "photos": [
+      "https://i.postimg.cc/7PBdNxyq/DSC-8.jpg",
+      "https://i.postimg.cc/RFxZqg83/DSC-28.jpg",
+      "https://i.postimg.cc/vTRfY77X/DSC-4.jpg"
+    ],
+    "committees": [
+      { "name": "AG1 - DISEC" },
+      { "name": "CDH" },
+
+      { "name": "AG3 - SOCHUM" },
+      { "name": "UNODC" },
+
+      { "name": "AG4 - SPECPOL" },
+      { "name": "CIJ" },
+      { "name": "CS" },
+
+      { "name": "ECOSOC" },
+      { "name": "CSH" }
+
+    ],
+    "team": [
+      { "name": "Yassin Hossam", "role": "Secrétaire Général" },
+      { "name": "Omar Ibrahim", "role": "Secrétaire Général Adjoint" },
+      { "name": "Yehia Gehad", "role": "Secrétaire Général Adjoint" },
+      { "name": "Youssef Alaa", "role": "Chef Média" },
+      { "name": "Mohamed Tarek", "role": "Chef Équipe Organisatrice" },
+      { "name": "Omar Waleed", "role": "Chef de l'État Major" },
+      { "name": "Marc Khoury", "role": "Président de l'Assemblée Générale" }
+    ],
+    "driveLink": "https://drive.google.com/drive/folders/1XG1vdjwmU77xaZrKKL7UKXgzthGDgQMH?usp=drive_link"
+  },
+  {
+    "edition": "MIANU-SM I",
+    "year": "2023",
+    "slogan": "LA PAIX À TRAVERS L'HUMANITÉ",
+    "description": "L'édition inaugurale de MIANU-SM a établi une nouvelle tradition d'excellence dans le Modèle des Nations Unies au Collège Saint-Marc.",
+    "photos": [
+      "https://i.postimg.cc/2ypw0XTF/DSC02868.jpg",
+      "https://i.postimg.cc/MK7N8d0P/DSC-0344.jpg",
+      "https://i.postimg.cc/5NYTkfjV/DSC02899.jpg"
+    ],
+    "committees": [
+      { "name": "AG1 Désarmement et Sécurité Internationale" },
+      { "name": "AG4 CDH" },
+      { "name": "AG2 Environnement" },
+      { "name": "CS" },
+      { "name": "AG3 Culture" },
+      { "name": "ECOSOC" }
+    ],
+    "team": [
+      { "name": "Jean George Goubran", "role": "Secrétaire Général" },
+      { "name": "Akram Ammar", "role": "Secrétaire Général Adjoint" },
+      { "name": "John Makine", "role": "Secrétaire Général Adjoint" },
+      { "name": "Omar Waleed", "role": "Président de l'Assemblée Générale" },
+      { "name": "Yehia Shebl", "role": "Vice-Président de l'Assemblée Générale" }
+    ],
+    "driveLink": "https://drive.google.com/drive/folders/1UZfnCyy2bN1AALMYGCPJMn8ldrIs-zBB?usp=sharing"
+  }
+]

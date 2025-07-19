@@ -1,0 +1,51 @@
+.committee-container {
+    overscroll-behavior: contain;
+  }
+  
+  .committee-item {
+    transition: transform 0.1s ease;
+  }
+  
+  .dragging {
+    opacity: 0.7;
+    border: 2px dashed #1282A2;
+    transform: scale(1.02);
+    z-index: 10;
+    position: relative;
+    background-color: #f8f9fa;
+  }
+  
+  .highlight-move {
+    animation: highlight 1s ease-in-out;
+  }
+  
+  @keyframes highlight {
+    0%, 100% {
+      background-color: white;
+    }
+    50% {
+      background-color: rgba(18, 130, 162, 0.1);
+    }
+  }
+  
+  .drag-handle {
+    touch-action: none;
+    -webkit-tap-highlight-color: transparent;
+    user-select: none;
+    cursor: grab;
+  }
+  
+  .drag-handle:active {
+    cursor: grabbing;
+  }
+  
+  .touch-active .drag-handle {
+    background-color: rgba(18, 130, 162, 0.1);
+  }
+  
+  @media (max-width: 768px) {
+    .drag-handle {
+      padding: 12px;
+      margin-right: 8px;
+    }
+  }

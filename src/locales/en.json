@@ -1,0 +1,468 @@
+{
+  "navbar": {
+    "home": "Home",
+    "inscription": "Registration",
+    "committees": "Committees and Topics",
+    "equipe": "Our Team",
+    "archive": "Archives",
+    "archiveMain": "MIANU-SM Archives",
+    "adopted": "Adopted Resolutions and Verdicts",
+    "openMenu": "Open main menu"
+  },
+  "footer": {
+    "address": "Collège Saint-Marc, El Shatby, Alexandria",
+    "followUs": "Follow us on",
+    "and": "and"
+  },
+  "countdown": {
+    "title": "MIANU-SM III WILL START IN",
+    "days": "Days",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds"
+  },
+  "notFound": {
+    "underConstruction": "UNDER CONSTRUCTION",
+    "title": "Oops! This page is still under construction",
+    "message": "Our team of experts is working hard to complete this section. Please check back soon as we prepare for MIANU-SM III!",
+    "returnHome": "Return to Home"
+  },
+  "home": {
+    "banner": {
+      "month": "CTOBER",
+      "year": "2025",
+      "title": "MIANU-SM III",
+      "location": "COLLÈGE SAINT-MARC, ALEXANDRIA",
+      "backgroundAlt": "MIANU-SM III conference banner"
+    },
+    "meta": {
+      "title": "MIANU-SM III | MUN Conference",
+      "description": "Join MIANU-SM III, the premier Model United Nations conference at College Saint-Marc, Alexandria in October 2025."
+    }
+  },
+  "committees": {
+    "pageTitle": "Committees",
+    "pageDescription": "Explore the committees and topics that will be debated at MIANU-SM III.",
+    "languageLegend": "Committee Languages",
+    "sdgLegend": "Sustainable Development Goals (SDGs)",
+    "committeeLeadership": "Committee Presidency",
+    "topics": "Topics",
+    "report": "Report",
+    "showDescription": "Show description",
+    "hideDescription": "Hide description"
+  },
+  "inscription": {
+    "title": "Register for MIANU-SM III",
+    "subtitle": "Join us for this unique diplomatic experience at College Saint-Marc in October 2025.",
+    "registerNow": "Register Now",
+    "chooseOption": "Choose your registration type",
+
+    "delegateTitle": "Register as Delegate",
+    "delegateDescription": "For participants who wish to represent a country in a committee.",
+
+    "viceTitle": "Register as Vice-President",
+    "viceDescription": "For participants who wish to assist as a vice-president.",
+
+    "institutionTitle": "Foreign Institution Registration",
+    "institutionDescription": "For Foreign schools that wish to register a group of participants.",
+    "institutionButton": "Foreign Institution registration form",
+
+    "frenchForm": "French form",
+    "englishForm": "English form",
+
+    "additionalInfo": {
+      "contact": "For any questions, please contact us at equipemianu@gmail.com"
+    },
+
+    "pullMe": "Pull me",
+    "easterEgg": {
+      "title": "Exclusive Preview of MIANU-SM III",
+      "description": "Congratulations! You've discovered an exclusive preview of our upcoming conference. MIANU-SM III promises to be our most ambitious edition yet, with innovative committees and exciting debates on current global issues.",
+      "date": "October 2025",
+      "location": "College Saint-Marc, Alexandria"
+    }
+  },
+  "news": {
+    "title": "The MIANU-SM File",
+    "subtitle": "— Est. 2025 —",
+    "buttonText": "News",
+    "buttonAriaLabel": "View news"
+  },
+  "equipe": {
+    "title": "Our Team | MIANU-SM III",
+    "leadership": "Executive Directors",
+    "specialTeams": "Specialized Teams",
+    "organization": "Organizing Team",
+    "pageTitle": "THE MIANU-SM III TEAM",
+    "subtitle": "The faces behind the conference",
+    "secretariat": "General Secretariat",
+    "committees": "Committee Presidencies",
+    "logistics": "Logistics Team",
+    "communications": "Communications Team",
+    "technical": "Technical Team",
+    "comingSoon": "Identities to be revealed",
+    "mysteryMessage": "The identities of the MIANU-SM III team members remain confidential until the official opening of the conference. Stay tuned to discover who is behind this exceptional edition.",
+    "teamMembers": {
+      "secretariat": [
+        {
+          "id": "sg",
+          "role": "secretaryGeneral",
+          "name": "???",
+          "bio": "The Secretary General leads the conference with vision and determination.",
+          "image": "/assets/silhouette.png"
+        },
+        {
+          "id": "dsg1",
+          "role": "deputySecretary",
+          "name": "???",
+          "bio": "The first Deputy Secretary General supports the conference ensures smooth operations.",
+          "image": "/assets/silhouette.png"
+        },
+        {
+          "id": "dsg2",
+          "role": "deputySecretary",
+          "name": "???",
+          "bio": "Similar to the first Deputy Secretary General, The Second Deputy Secretary General plays a crucial role in the conference's operations.",
+          "image": "/assets/silhouette.png"
+        }
+      ],
+      "leadership": [
+        {
+          "id": "cos1",
+          "role": "chiefOfStaff",
+          "name": "???",
+          "bio": "MUN veterans, the Chiefs of The Academic Committee lead the Presidency of the Conference committees and ensure that the academic aspect of MIANU is well managed.",
+          "image": "/assets/silhouette.png"
+        },
+        {
+          "id": "cos2",
+          "role": "chiefOfStaff",
+          "name": "???",
+          "bio": "MUN veterans, the Chiefs of The Academic Committee lead the Presidency of the Conference committees and ensure that the academic aspect of MIANU is well managed.",
+          "image": "/assets/silhouette.png"
+        }
+      ],
+      "organization": [
+        {
+          "id": "org1",
+          "role": "organizingHead",
+          "name": "???",
+          "bio": "Ensuring the conference runs smoothly behind the scenes with meticulous planning and execution.",
+          "image": "/assets/silhouette.png"
+        },
+        {
+          "id": "cultural",
+          "role": "culturalVisitsHead",
+          "name": "?????",
+          "bio": "???",
+          "image": "/assets/silhouette-redacted.png",
+          "mysterious": true
+        }
+      ],
+      "specialTeams": [
+        {
+          "id": "media",
+          "role": "mediaTechHead",
+          "name": "???",
+          "bio": "Leading the digital transformation and media presence of the conference.",
+          "image": "/assets/silhouette.png"
+        },
+        {
+          "id": "crisis",
+          "role": "crisisHead",
+          "name": "????",
+          "bio": "??????",
+          "image": "/assets/silhouette.png",
+          "mysterious": true
+
+        },
+        {
+          "id": "press",
+          "role": "pressHead",
+          "name": "???",
+          "bio": "Directing the press team that documents and reports on conference proceedings with journalistic excellence.",
+          "image": "/assets/silhouette.png"
+        }
+      ]
+    },
+    "roles": {
+      "secretaryGeneral": "Secretary General",
+      "deputySecretary": "Deputy Secretary General",
+      "chiefOfStaff": "Chief of Academic Committee",
+      "mediaTechHead": "Head of Media & IT",
+      "organizingHead": "Head of Organizing Team",
+      "culturalVisitsHead": "Head of ???",
+      "crisisHead": "Head of ???",
+      "pressHead": "Head of Press Team"
+    },
+    "quote": {
+      "text": "Behind every great conference is an even greater team.",
+      "author": "Anonymous"
+    },
+    "culturalMystery": "An enigmatic role whose exact nature remains classified..."
+  },
+  "archive": {
+    "pageTitle": "ARCHIVES | MIANU-SM III",
+    "archives": "ARCHIVES",
+    "mianuArchives": "ARCHIVES MIANU-SM",
+    "theConference": "LA CONFÉRENCE {{edition}}",
+    "conferenceArchive": "Archives de la Conférence",
+    "accessPhotos": "Accédez à toutes les photos et documents de {{edition}} :",
+    "googleDriveArchive": "Archives Google Drive",
+    "photoCredit": "Archives MIANU-SM, {{year}}",
+    "committees": "COMITTEES",
+    "topics": "Sujets",
+    "leadershipTeam": "THE TEAM",
+    "previousEdition": "Édition précédente",
+    "nextEdition": "Édition suivante",
+    "editionCounter": "Édition {{current}} sur {{total}}"
+  },
+  "auth": {
+    "healthConcerns": "Health Concerns",
+    "healthConcernsPlaceholder": "List all health concerns, medical conditions, or allergies, or dietary restrictions.",
+    "healthConcernsHelp": "List any health concerns, medical conditions, or allergies, or dietary restrictions. ",
+    "hasHealthConcerns": "Has health concerns",
+    "noHealthConcerns": "No health concerns",
+    "noCommittees":"No Committees were found",
+    "wantToSignupAsAdvisor":"This form is for Delegates.",
+    "advisorSignupLink":"Signup as an Advisor",
+    "wantToSignupAsDelegate":"Want to Signup as a Delegate?",
+    "delegateSignupLink":"Signup as a Delegate",
+    "advisorSignupSubtitle":"Join MIANU-SM III as an Advisor",
+    "advisorSignupButton":"Signup As Advisor",
+    "advisorSignup":"Signup As Advisor",
+    "dateOfBirth":"Date of Birth",
+    "dragToReorder": "Drag and drop to reorder",
+    "yes":"Yes",
+    "no":"No",
+    "munsAttended":"MUNs Attended",
+    "munsAttendedPlaceholder":"Enter the number of MUNs attended",
+    "hasAwards":"Do you Have Any Awards?",
+    "hasAwardsPlaceholder":"Enter the number of awards",
+    "awardsList":"Award List",
+    "awardsListPlaceholder":"Enter the list of awards",
+    "priority": "Priority",
+    "role":"Role",
+    "noAccount" : "Don't have an account?",
+    "signupLink": "Sign up",
+    "logout": "Logout",
+    "profile": "Profile",
+    "dashboard": "Dashboard",
+    "createdAt":"Created at",
+    "lastLoginAt":"Last login at",
+    "signup": "Sign Up",
+    
+    "signupSubtitle": "Join MIANU-SM III as a delegate",
+    "signupButton": "Register",
+    "signupsim": "Register For The Simulation",
+    "signupsimPrice": "Simulation Fees : 550 EGP",
+    "signupsimSubtitle": "Join The First MIANU-SM III Simulation (31ST OF JULY) as a delegate",
+    "signupsimButton": "Register For The Simulation",
+    "signingUpsim": "Registering...",
+    "signupsimSuccess": "Registration successful! Welcome to MIANU-SM III First Simulation.",
+    "signupsimError": "An error occurred during registration. Please try again.",
+    "signingUp": "Registering...",
+    "signupSuccess": "Registration successful! Welcome to MIANU-SM III.",
+    "signupError": "An error occurred during registration. Please try again.",
+
+    "login": "Login",
+    "loginSubtitle": "Access your MIANU-SM III account",
+    "loginButton": "Login",
+    "loggingIn": "Logging in...",
+    "loginSuccess": "Login successful! Welcome back.",
+    "loginError": "Invalid email or password. Please try again.",
+    "loginLink": "Login",
+
+    "alreadyHaveAccount": "Already have an account?",
+    "forgotPassword": "Forgot password?",
+    "resetPassword": "Reset Password",
+    "resetPasswordButton": "Send Reset Link",
+    "resetPasswordSuccess": "Password reset email sent. Please check your inbox.",
+    "resetPasswordError": "Error sending password reset email. Please try again.",
+
+    "email": "Email",
+    "emailPlaceholder": "your.email@example.com",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordPlaceholder": "Confirm your password",
+    "passwordsDoNotMatch": "Passwords do not match",
+    "passwordTooShort": "Password must be at least 6 characters",
+
+    "firstName": "First Name",
+    "firstNamePlaceholder": "Enter your first name",
+    "lastName": "Last Name",
+    "lastNamePlaceholder": "Enter your last name",
+    "schoolName": "School Name",
+    "schoolNamePlaceholder": "Enter your school name",
+    "phoneNumber": "Phone Number",
+    "phoneNumberPlaceholder": "Enter your phone number",
+
+    "delegateType": "You are...",
+    "national": "Egyptian",
+    "international": "International",
+
+    "age": "Age",
+    "agePlaceholder": "Enter your age",
+    "schoolYear": "School Year/Grade (2025-2026)",
+    "schoolYearPlaceholder": "e.g., 11th Grade, Terminale, etc.",
+
+    "healthProblems": "Health Problems",
+    "healthProblemsPlaceholder": "List any health problems or medical conditions",
+    "allergies": "Allergies",
+    "allergiesPlaceholder": "List any allergies",
+
+    "country": "Country",
+    "countryPlaceholder": "Enter your country",
+    "passportImage": "Passport Image",
+    "uploadPassport": "Upload passport",
+    "dragAndDrop": "or drag and drop",
+    "passportPreview": "Passport preview",
+
+    "committeePriorities": "Committee Preferences",
+    "committeePrioritiesDescription": "Please select your committee preferences in order of priority",
+    "firstPriority": "First Choice",
+    "secondPriority": "Second Choice",
+    "thirdPriority": "Third Choice",
+    "selectCommittee": "Select a committee",
+
+    "optional": "(optional)",
+    "requiredFieldsMissing": "Please fill in all required fields",
+    "internationalFieldsMissing": "Please fill in all required international fields",
+
+    "emailAlreadyInUse": "This email is already in use",
+    "invalidEmail": "Invalid email address",
+    "weakPassword": "Password is too weak",
+    "operationNotAllowed": "Operation not allowed"
+  },
+  "additionalInfo": {
+    "contact": "For any questions, please contact us at equipemianu@gmail.com"
+  },
+  "displayName": "Name",
+  "displayNamePlaceholder": "Enter your name",
+  "forgotPassword": "Forgot password?",
+  "loginButton": "Sign In",
+  "loggingIn": "Signing in...",
+  "signupButton": "Create Account",
+  "signingUp": "Creating account...",
+  "sendResetLink": "Send Reset Link",
+  "sendingResetLink": "Sending...",
+  "backToLogin": "Back to login",
+  "noAccount": "Don't have an account?",
+  "signupLink": "Sign up",
+  "alreadyHaveAccount": "Already have an account?",
+  "loginLink": "Log in",
+  "passwordResetSent": "Password reset link has been sent to your email",
+  "passwordResetError": "Failed to reset password. Please check your email address.",
+  "loginError": "Failed to log in. Please check your credentials.",
+  "signupError": "Failed to create account. This email may already be in use.",
+  "logoutError": "Failed to log out. Please try again.",
+  "passwordsDoNotMatch": "Passwords do not match",
+  "passwordTooShort": "Password should be at least 6 characters",
+  "admin": {
+    "committeePreferences": "Committee Preferences",
+    "delegate": "Delegate",
+    "school": "School",
+    "firstChoice": "First Choice",
+    "secondChoice": "Second Choice",
+    "thirdChoice": "Third Choice",
+    "healthNotes": "Health Notes",
+    "personalInfo": "Personal Information",
+    "schoolInfo": "School Information",
+    "healthInfo": "Health Information",
+    "phoneNumber": "Phone Number",
+    "age": "Age",
+    "delegateType": "Delegate Type",
+    "language": "Language",
+    "schoolName": "School Name",
+    "schoolYear": "School Year",
+    "healthProblems": "Health Problems",
+    "allergies": "Allergies",
+    "none": "None",
+    "notProvided": "Not provided",
+    "noPhone": "No phone number",
+    "registeredOn": "Registered on",
+    "lastLogin": "Last login",
+    "priority1": "First Choice",
+    "priority2": "Second Choice",
+    "priority3": "Third Choice",
+    "noPreferencesSelected": "No committee preferences selected",
+    "unknownCommittee": "Unknown Committee",
+    "hasHealthConcerns": "Has health concerns",
+    "noHealthConcerns": "No health concerns",
+    "systemLogs": "System Logs",
+    "timestamp": "Timestamp",
+    "action": "Action",
+    "module": "Module",
+    "details": "Details",
+    "filter": "Filter",
+    "export": "Export CSV",
+    "loadingLogs": "Loading logs...",
+    "noLogsFound": "No logs found",
+    "errorFetchingLogs": "Error fetching logs. Please try again.",
+    "filterByModule": "Filter by module",
+    "filterByUserId": "Filter by user ID",
+    "startDate": "Start Date",
+    "endDate": "End Date",
+    "selectStartDate": "Select start date",
+    "selectEndDate": "Select end date",
+    "applyFilters": "Apply Filters",
+    "limit": "Results Limit",
+    "userId": "User ID",
+    "system": "System",
+    "dashboard": "Admin Dashboard",
+    "dashboardDescription": "Manage users, roles, and system settings",
+    "userManagement": "User Management",
+    "statistics": "Statistics",
+    "adminPanel": "Admin Panel",
+    "searchUsers": "Search users by name or email",
+    "loading": "Loading...",
+    "loadingUsers": "Loading users...",
+    "loadingStats": "Loading statistics...",
+    "noUsersFound": "No users found",
+    "user": "User",
+    "email": "Email",
+    "role": "Role",
+    "paymentStatus": "Payment Status",
+    "actions": "Actions",
+    "noName": "No Name",
+    "unknown": "Unknown",
+    "defaultRole": "User",
+    "paid": "Paid",
+    "unpaid": "Unpaid",
+    "changeRole": "Change Role",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "changeUserRole": "Change User Role",
+    "changeRoleDescription": "Change the role for {user}",
+    "selectRole": "Select Role",
+    "roleUser": "User",
+    "roleDelegate": "Delegate",
+    "rolePresident": "President",
+    "roleAdmin": "Administrator",
+    "deleteUser": "Delete User",
+    "deleteUserWarning": "Are you sure you want to delete {user}? This action cannot be undone.",
+    "deleteUserConfirmation": "This will permanently delete the user account and all associated data.",
+    "roleUpdateError": "Failed to update user role. Please try again.",
+    "deleteUserError": "Failed to delete user. Please try again.",
+    "errorFetchingUsers": "Failed to load users. Please try again later.",
+    "errorFetchingStats": "Failed to load statistics. Please try again later.",
+    "roleFilter": "Filter by Role",
+    "paymentFilter": "Filter by Payment",
+    "allRoles": "All Roles",
+    "allPaymentStatuses": "All Payment Statuses",
+    "totalUsers": "Total Users",
+    "paidUsers": "Paid Users",
+    "unpaidUsers": "Unpaid Users",
+    "adminUsers": "Admin Users",
+    "userRolesDistribution": "User Roles Distribution"
+  },
+  "unauthorized": {
+    "title": "Access Denied",
+    "description": "You do not have permission to access this page",
+    "message": "You do not have the necessary permissions to access this page. Please contact an administrator if you believe this is an error.",
+    "returnHome": "Return to Home"
+  }
+}
+

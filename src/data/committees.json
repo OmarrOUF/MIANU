@@ -1,0 +1,347 @@
+{
+  "committees": [
+    {
+      "id": 1,
+      "nameFr": "AG1 : Désarmement et sécurité internationale (DISEC)",
+      "nameEn": "GA1 : Disarmament and international security (DISEC)",
+      "descriptionFr": "Le Premièr Comité de l'AG traite des questions de désarmement et de sécurité internationale. il a été créé dans le but de formuler des recommandations dans le domaine du désarmement. Chaque année, à l’issue de ses délibérations, il transmet ses recommandations à l’Assemblée générale, dont il est un organe subsidiaire, au même titre que les cinq autres Grandes Commissions.",
+      "descriptionEn": "The First Committee of the UNGA deals with disarmament, global challenges and threats to peace that affect the international community and seeks out solutions to the challenges in the international security regime. It considers all disarmament and international security matters within the scope of the Charter or relating to the powers and functions of any other organ of the United Nations; the general principles of cooperation in the maintenance of international peace and security, as well as principles governing disarmament and the regulation of armaments; promotion of cooperative arrangements and measures aimed at strengthening stability through lower levels of armaments.",
+      "language": "fr",
+      "binomial": false,
+      "president": {
+        "name": "Bom takh",
+        "gender": "female"
+      },
+      "vicePresident": {
+        "name": "Takh bom",
+        "gender": "male"
+      },
+      "topicsFr": [
+        {
+          "title": "La crise des réfugiés climatiques",
+          "description": "",
+          "reportLink": "https://docs.google.com/document/d/1abc123def456/edit",
+          "sdgs": [13, 10, 16]
+        },
+        {
+          "title": "Réglementation des technologies d'intelligence artificielle",
+          "description": "",
+          "reportLink": "https://docs.google.com/document/d/2ghi789jkl012/edit",
+          "sdgs": [9, 16, 17]
+        }
+      ],
+      "topicsEn": [
+        {
+          "title": "The climate refugee Crisis",
+          "description": "",
+          "reportLink": "https://docs.google.com/document/d/1abc123def456/edit",
+          "sdgs": [13, 10, 16]
+        },
+        {
+          "title": "Regulation of artificial intelligence technologies",
+          "description": "",
+          "reportLink": "https://docs.google.com/document/d/2ghi789jkl012/edit",
+          "sdgs": [9, 16, 17]
+        }
+      ],
+      "color": "#0055ff"
+    },
+    {
+      "id": 2,
+      "nameFr": "AG3 : Sociale, humanitaire et culturelle (SOCHUM)",
+      "nameEn": "GA3 : Social, humanitarian and cultural (SOCHUM)",
+      "descriptionFr": "Le Troisième Comité de l'AG s'occupe d'importantes questions relatives au développement social telles que la promotion des droits de la femme, la protection des enfants, les populations autochtones, le traitement des réfugiés, la protection des libertés fondamentales par l'élimination de la discrimination raciale et le droit à l'autodétermination.",
+      "descriptionEn": "The Committee discusses questions relating to the advancement of women, the protection of children, indigenous issues, the treatment of refugees, the promotion of fundamental freedoms through the elimination of racism and racial discrimination, and the right to self- determination.  The Committee also addresses important social development questions such as issues related to youth, family, ageing, persons with disabilities, crime prevention, criminal justice, and international drug control.",
+      "language": "fr",
+      "binomial": false,
+      "president": {
+        "name": "Emma Johnson",
+        "gender": "female"
+      },
+      "vicePresident": {
+        "name": "Alexandre Chen",
+        "gender": "male"
+      },
+      "topicsFr": [
+        {
+          "title": "Conflits liés aux ressources en eau",
+          "description": "",
+          "reportLink": "https://docs.google.com/document/d/3mno345pqr678/edit",
+          "sdgs": [6, 16, 13]
+        },
+        {
+          "title": "Cybersécurité et menaces transnationales",
+          "description": "",
+          "reportLink": "https://docs.google.com/document/d/4stu901vwx234/edit",
+          "sdgs": [16, 17, 9]
+        }
+      ],
+      "topicsEn": [
+        {
+          "title": "Water resource conflicts",
+          "description": "",
+          "reportLink": "https://docs.google.com/document/d/3mno345pqr678/edit",
+          "sdgs": [6, 16, 13]
+        },
+        {
+          "title": "Cybersecurity and transnational threats",
+          "description": "",
+          "reportLink": "https://docs.google.com/document/d/4stu901vwx234/edit",
+          "sdgs": [16, 17, 9]
+        }
+      ],
+      "color": "#0055ff"
+    },
+    {
+      "id": 4,
+      "nameFr": "Conseil des Droits de l'Homme (CDH)",
+      "nameEn": "Human Rights Council (CDH)",
+      "descriptionFr": "Le Conseil des Droits de l'Homme est un organe intergouvernemental du système des Nations Unies, composé de 47 États qui ont la responsabilité de renforcer la promotion et la protection des droits de l'homme autour du globe. Il a la capacité de débattre toutes les questions et situations thématiques relatives aux droits de l'homme qui requièrent son attention tout au long de l'année. Il se réunit à l'Office des Nations Unies à Genève.",
+      "descriptionEn": "The Human Rights Council is an intergovernmental body within the United Nations system made up of 47 States responsible for the promotion and protection of all human rights around the globe.It has the ability to discuss all thematic human rights issues and situations that require its attention throughout the year. It meets at the United Nations Office at Geneva.",
+      "language": "en",
+      "bilingual": true,
+      "binomial": false,
+      "president": {
+        "name": "David Wilson",
+        "gender": "male"
+      },
+      "vicePresident": {
+        "name": "Sarah Lopez",
+        "gender": "female"
+      },
+      "topicsFr": [
+        {
+          "title": "Droits numériques et vie privée",
+          "description": "",
+          "reportLink": "https://docs.google.com/document/d/7jkl789mno012/edit",
+          "sdgs": [16, 9, 17]
+        },
+        {
+          "title": "Droits des populations autochtones",
+          "description": "",
+          "reportLink": "https://docs.google.com/document/d/8pqr345stu678/edit",
+          "sdgs": [10, 15, 16]
+        }
+      ],
+      "topicsEn": [
+        {
+          "title": "Digital rights and privacy",
+          "description": "",
+          "reportLink": "https://docs.google.com/document/d/7jkl789mno012/edit",
+          "sdgs": [16, 9, 17]
+        },
+        {
+          "title": "Rights of indigenous peoples",
+          "description": "",
+          "reportLink": "https://docs.google.com/document/d/8pqr345stu678/edit",
+          "sdgs": [10, 15, 16]
+        }
+      ],
+      "color": "#c7c7c7"
+    },
+    {
+      "id": 7,
+      "nameFr": "Comité des utilisations pacifiques de l'espace extra-atmosphérique (CUPEEA)",
+      "nameEn": "Committee on the Peaceful Uses of Outer Space (COPUOS)",
+      "descriptionFr": "Le Comité des utilisations pacifiques de l'espace extra-atmosphérique (CUPEEA) est un organe intergouvernemental des Nations Unies, créé en 1959 pour promouvoir la coopération internationale dans l'utilisation pacifique de l'espace. Il est chargé d'examiner les questions juridiques, scientifiques et techniques liées aux activités spatiales afin de garantir que l'espace reste un domaine d'exploration et d'utilisation exclusivement pacifique.",
+      "descriptionEn": "The Committee on the Peaceful Uses of Outer Space (COPUOS) is an intergovernmental body of the United Nations, established in 1959 to promote international cooperation in the peaceful exploration and use of outer space. Its primary mandate is to address legal, scientific, and technical issues related to space activities, ensuring that space remains a domain for peaceful exploration and utilization.",
+      "language": "fr",
+      "binomial": false,
+      "president": {
+        "name": "David Wilson",
+        "gender": "male"
+      },
+      "vicePresident": {
+        "name": "Sarah Lopez",
+        "gender": "female"
+      },
+      "topicsFr": [
+        {
+          "title": "Droits numériques et vie privée",
+          "description": "",
+          "reportLink": "https://docs.google.com/document/d/7jkl789mno012/edit",
+          "sdgs": [16, 9, 17]
+        },
+        {
+          "title": "Droits des populations autochtones",
+          "description": "",
+          "reportLink": "https://docs.google.com/document/d/8pqr345stu678/edit",
+          "sdgs": [10, 15, 16]
+        }
+      ],
+      "topicsEn": [
+        {
+          "title": "Digital rights and privacy",
+          "description": "",
+          "reportLink": "https://docs.google.com/document/d/7jkl789mno012/edit",
+          "sdgs": [16, 9, 17]
+        },
+        {
+          "title": "Rights of indigenous peoples",
+          "description": "",
+          "reportLink": "https://docs.google.com/document/d/8pqr345stu678/edit",
+          "sdgs": [10, 15, 16]
+        }
+      ],
+      "color": "#001F3F"
+    },
+    {
+      "id": 3,
+      "nameFr": "Conseil de Sécurité (CS)",
+      "nameEn": "Security Council (CS)",
+      "descriptionFr": "La Charte des Nations Unies confère au Conseil de sécurité la responsabilité principale du maintien de la paix et de la sécurité internationales. Le Conseil compte 15 membres disposant chacun d’une voix. Aux termes de la Charte, tous les États Membres sont tenus d’appliquer les décisions du Conseil, vu que ses décisions sont juridiquement contraignantes",
+      "descriptionEn": "The Security Council has primary responsibility for the maintenance of international peace and security. It has 15 Members, and each Member has one vote. Under the Charter of the United Nations, all Member States are obligated to comply with Council decisions.",
+      "language": "fr",
+      "binomial": true,
+      "president": {
+        "name": "Marc Lefebvre",
+        "gender": "male"
+      },
+      "vicePresident": {
+        "name": "Julie Tremblay",
+        "gender": "female"
+      },
+      "topicsFr": [
+        {
+          "title": "Inégalités économiques mondiales",
+          "description": "",
+          "reportLink": "https://docs.google.com/document/d/5yz567abc890/edit",
+          "sdgs": [1, 10, 8]
+        },
+        {
+          "title": "Développement durable et économie circulaire",
+          "description": "",
+          "reportLink": "https://docs.google.com/document/d/6def123ghi456/edit",
+          "sdgs": [12, 11, 9]
+        }
+      ],
+      "topicsEn": [
+        {
+          "title": "Global economic inequalities",
+          "description": "",
+          "reportLink": "https://docs.google.com/document/d/5yz567abc890/edit",
+          "sdgs": [1, 10, 8]
+        },
+        {
+          "title": "Sustainable development and circular economy",
+          "description": "",
+          "reportLink": "https://docs.google.com/document/d/6def123ghi456/edit",
+          "sdgs": [12, 11, 9]
+        }
+      ],
+      "color": "#006a6e"
+    },
+    {
+      "id": 6,
+      "nameFr": "Cour Internationale de Justice (CIJ)",
+      "nameEn": "International Court of Justice (ICJ)",
+      "descriptionFr": "La Cour internationale de justice siégeant à La Haye (Pays-Bas) dans le palais de la Paix, est établie par l'article 92 de la Charte des Nations unies : « La Cour internationale de Justice constitue l'organe judiciaire principal des Nations unies. Elle fonctionne conformément au Statut de la Cour permanente de Justice internationale et annexé à la présente Charte dont il fait partie intégrante. » Elle a pour principales fonctions de régler des conflits juridiques soumis par les États et de donner un avis sur des questions juridiques présentées par des organes et agences internationaux agréés par l'Assemblée générale des Nations unies.",
+      "descriptionEn": "The International Court of Justice or colloquially the World Court, is the only international court that adjudicates general disputes between nations, and gives advisory opinions on international legal issues. It is one of the six organs of the United Nations (UN), and is located in The Hague, Netherlands.",
+      "language": "fr",
+      "binomial": false,
+      "president": {
+        "name": "David Wilson",
+        "gender": "male"
+      },
+      "vicePresident": {
+        "name": "Sarah Lopez",
+        "gender": "female"
+      },
+      "topicsFr": [
+        {
+          "title": "Droits numériques et vie privée",
+          "description": "",
+          "reportLink": "https://docs.google.com/document/d/7jkl789mno012/edit",
+          "sdgs": [16, 9, 17]
+        },
+        {
+          "title": "Droits des populations autochtones",
+          "description": "",
+          "reportLink": "https://docs.google.com/document/d/8pqr345stu678/edit",
+          "sdgs": [10, 15, 16]
+        }
+      ],
+      "topicsEn": [
+        {
+          "title": "Digital rights and privacy",
+          "description": "",
+          "reportLink": "https://docs.google.com/document/d/7jkl789mno012/edit",
+          "sdgs": [16, 9, 17]
+        },
+        {
+          "title": "Rights of indigenous peoples",
+          "description": "",
+          "reportLink": "https://docs.google.com/document/d/8pqr345stu678/edit",
+          "sdgs": [10, 15, 16]
+        }
+      ],
+      "color": "#8f000a"
+    },
+
+    {
+      "id": 8,
+      "nameFr": "Conseil Économique et Social (ECOSOC)",
+      "nameEn": "Economic and Social Council (ECOSOC)",
+      "descriptionFr": "Le Conseil économique et social des Nations Unies (ECOSOC) est l’un des six principaux organes des Nations Unies, chargé de coordonner les domaines économiques et sociaux de l’organisation, notamment en ce qui concerne les quinze institutions spécialisées, les huit commissions fonctionnelles et les cinq commissions régionales sous sa juridiction.",
+      "descriptionEn": "The United Nations Economic and Social Council (ECOSOC) is one of six principal organs of the United Nations, responsible for coordinating the economic and social fields of the organization, specifically in regards to the fifteen specialized agencies, the eight functional commissions, and the five regional commissions under its jurisdiction.",
+      "language": "en",
+      "binomial": false,
+      "president": {
+        "name": "David Wilson",
+        "gender": "male"
+      },
+      "vicePresident": {
+        "name": "Sarah Lopez",
+        "gender": "female"
+      },
+      "topicsFr": [
+        {
+          "title": "Droits numériques et vie privée",
+          "description": "",
+          "reportLink": "https://docs.google.com/document/d/7jkl789mno012/edit",
+          "sdgs": [16, 9, 17]
+        },
+        {
+          "title": "Droits des populations autochtones",
+          "description": "",
+          "reportLink": "https://docs.google.com/document/d/8pqr345stu678/edit",
+          "sdgs": [10, 15, 16]
+        }
+      ],
+      "topicsEn": [
+        {
+          "title": "Digital rights and privacy",
+          "description": "",
+          "reportLink": "https://docs.google.com/document/d/7jkl789mno012/edit",
+          "sdgs": [16, 9, 17]
+        },
+        {
+          "title": "Rights of indigenous peoples",
+          "description": "",
+          "reportLink": "https://docs.google.com/document/d/8pqr345stu678/edit",
+          "sdgs": [10, 15, 16]
+        }
+      ],
+      "color": "#85BB65"
+    }
+  ],
+  "sdgColors": {
+    "1": "#E5243B",
+    "2": "#DDA63A",
+    "3": "#4C9F38",
+    "4": "#C5192D",
+    "5": "#FF3A21",
+    "6": "#26BDE2",
+    "7": "#FCC30B",
+    "8": "#A21942",
+    "9": "#FD6925",
+    "10": "#DD1367",
+    "11": "#FD9D24",
+    "12": "#BF8B2E",
+    "13": "#3F7E44",
+    "14": "#0A97D9",
+    "15": "#56C02B",
+    "16": "#00689D",
+    "17": "#19486A"
+  }
+}

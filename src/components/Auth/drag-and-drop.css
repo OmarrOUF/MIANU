@@ -1,0 +1,23 @@
+/* Styles for drag and drop */
+.dragging {
+  opacity: 0.5;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  z-index: 100;
+}
+
+.drag-handle {
+  touch-action: none;
+  cursor: grab;
+}
+
+.drag-handle:active {
+  cursor: grabbing;
+}
+
+/* Add styles for mobile touch interactions */
+@media (max-width: 768px) {
+  .drag-handle {
+    padding: 8px;
+    margin: -8px;
+  }
+}

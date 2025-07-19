@@ -1,0 +1,76 @@
+{
+  "committees": [
+    {
+      "id": 1,
+      "nameFr": "CIJ : Cour Internationale de Justice",
+      "nameEn": "ICJ : International Court of Justice",
+      "descriptionFr": "La Cour internationale de justice siégeant à La Haye (Pays-Bas) dans le palais de la Paix, est établie par l'article 92 de la Charte des Nations unies : « La Cour internationale de Justice constitue l'organe judiciaire principal des Nations unies. Elle fonctionne conformément au Statut de la Cour permanente de Justice internationale et annexé à la présente Charte dont il fait partie intégrante. » Elle a pour principales fonctions de régler des conflits juridiques soumis par les États et de donner un avis sur des questions juridiques présentées par des organes et agences internationaux agréés par l'Assemblée générale des Nations unies.",
+      "descriptionEn": "The International Court of Justice or colloquially the World Court, is the only international court that adjudicates general disputes between nations, and gives advisory opinions on international legal issues. It is one of the six organs of the United Nations (UN), and is located in The Hague, Netherlands.",
+      "language": "fr",
+      "binomial": false,
+      "president": {
+        "name": "Philo Morcos",
+        "gender": "male"
+      },
+      "vicePresident": {
+        "name": "Yasmine Tarek",
+        "gender": "female"
+      },
+      "topicsFr": [
+        {
+          "title": "Guyana contre Venezuela (sentence arbitrale du 3 octobre 1899)",
+          "description": "",
+          "reportLink": "#",
+          "sdgs": [16, 17]
+        }
+      ],
+      "topicsEn": [
+        {
+          "title": "Guyana VS. Venezula (arbitral sentence 3 October 1899)",
+          "description": "",
+          "reportLink": "#",
+          "sdgs": [16, 17, 10, 1]
+        }
+      ],
+      "color": "#0055ff"
+    },
+
+    
+    {
+      "id": 2,
+      "nameFr": "CSH : Conseil de Securite Historique",
+      "nameEn": "HSC : Historical Security Council",
+      "descriptionFr": "Créé après la Seconde Guerre mondiale, le Conseil de sécurité avait pour mission de maintenir la paix internationale. Il comptait 15 membres, dont 5 permanents avec un droit de veto. Mais pendant la guerre froide et la décolonisation, ses décisions étaient souvent bloquées par les rivalités entre grandes puissances.",
+      "descriptionEn": "Formed after the Second World War, the Security Council was tasked with maintaining international peace in a world shaped by colonial legacies and Cold War tensions. With 15 members—five permanent and ten rotating—it served as the UN’s central body for conflict resolution. Though bound by the Charter, its actions were often constrained by geopolitical rivalries, reflecting the complexities of postwar diplomacy.",
+      "language": "fr",
+      "binomial": true,
+      "crisis" : true,
+      "historical" : true,
+      "president": {
+        "name": "Karim Shacker",
+        "gender": "male"
+      },
+      "vicePresident": {
+        "name": "Farida Bassiouny",
+        "gender": "female"
+      },
+      "topicsFr": [
+        {
+          "title": "La Crise des Missiles de Cuba (1962)",
+          "description": "Nous sommes en octobre 1962, la crise éclate après que l'URSS a installé des missiles nucléaires à Cuba. Comment l'Occident va-t-il réagir ? Qu'adviendra-t-il des missiles américains en Turquie ? La guerre froide va-t-elle s'emballer ? La réponse est entre vos mains.",
+          "reportLink": "#",
+          "sdgs": [16,17, 13, 3]
+        }
+      ],
+      "topicsEn": [
+        {
+          "title": "The Cuban Missiles Crisis (1962)",
+          "description": "It's October 1962, and the crisis erupts after the USSR installs nuclear missiles in Cuba. How will the West react? What will happen to the American missiles in Turkey? Will the Cold War escalate? The answer is in your hands.",
+          "reportLink": "#",
+          "sdgs": [16, 17, 13, 3]
+        }
+      ],
+      "color": "#0055ff"
+    }
+
+]}
